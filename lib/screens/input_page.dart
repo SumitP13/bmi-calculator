@@ -20,7 +20,7 @@ class _InputPageState extends State<InputPage> {
   Color femaleCardColor = kInActiveCardColor;
 
   Gender selectedGender = Gender.male;
-  int height = 180;
+  int height = 160;
   int weight = 45;
   int age = 18;
 

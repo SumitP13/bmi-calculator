@@ -1,5 +1,4 @@
 import 'package:bmi/screens/input_page.dart';
-import 'package:bmi/screens/results_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
